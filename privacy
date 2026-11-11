@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSAA Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.65;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2 { color: #111; }
+    h1 { margin-bottom: 0.2em; }
+    .meta { color: #666; margin-bottom: 2em; }
+    footer {
+      margin-top: 3em;
+      padding-top: 1em;
+      border-top: 1px solid #ddd;
+      color: #666;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <div class="meta">
+    Jean Social Artist Autopilot (JSAA)<br>
+    Effective date: 11 November 2026
+  </div>
+
+  <p>
+    Jean Social Artist Autopilot ("JSAA") is a creator tool designed to help an artist
+    prepare, review and manage short-form music content for social platforms such as TikTok
+    and Instagram.
+  </p>
+
+  <p>
+    JSAA is currently operated as a local, single-user application. The main application,
+    media files, project database and generated content are stored on the user's own computer
+    unless the user explicitly chooses to send content to an external service.
+  </p>
+
+  <h2>1. Information JSAA may process</h2>
+  <p>Depending on the features used, JSAA may process:</p>
+  <ul>
+    <li>Basic social account information, such as display name, username or account identifier.</li>
+    <li>OAuth authorization data and access tokens required to connect a supported social platform.</li>
+    <li>Music, lyrics, artwork, captions, hashtags, images and videos supplied by the user.</li>
+    <li>User-created preferences, approvals, rejections and editing choices used to improve the local workflow.</li>
+    <li>Technical information necessary to operate the application and its integrations.</li>
+  </ul>
+
+  <h2>2. TikTok data</h2>
+  <p>
+    If the user connects a TikTok account, JSAA may request only the permissions needed for
+    the enabled TikTok features.
+  </p>
+  <p>
+    Basic TikTok account information may be used to identify and display the account connected
+    to JSAA. If TikTok content-upload functionality is enabled in the future, JSAA may use the
+    relevant TikTok permission to transfer a user-approved video to the user's TikTok account.
+  </p>
+  <p>
+    JSAA does not automatically publish content without user action. Content preparation,
+    approval and publishing remain under the user's control.
+  </p>
+
+  <h2>3. Use of AI services</h2>
+  <p>
+    JSAA may use external AI services, including OpenAI APIs, when the user requests functions
+    such as concept generation, text generation, semantic analysis or image generation.
+    Only information required to perform the requested operation is sent to the relevant service.
+  </p>
+
+  <h2>4. How information is used</h2>
+  <p>Information processed by JSAA is used only to:</p>
+  <ul>
+    <li>Provide the requested content-creation and preparation features.</li>
+    <li>Connect the user's own social accounts when explicitly authorized.</li>
+    <li>Generate and render user-requested content.</li>
+    <li>Remember user-approved creative preferences within the JSAA application.</li>
+    <li>Prepare content for manual or authorized platform publishing.</li>
+  </ul>
+
+  <h2>5. Data sharing</h2>
+  <p>JSAA does not sell personal data.</p>
+  <p>
+    Information may be transmitted to external services only when necessary to perform a
+    user-requested function, for example to OpenAI for AI generation or to TikTok for account
+    authorization or an authorized upload operation.
+  </p>
+
+  <h2>6. Data storage</h2>
+  <p>
+    JSAA is designed primarily as a local application. Application data, media, generated files
+    and preferences are normally stored on the user's own system.
+  </p>
+  <p>
+    Authentication tokens for connected services are intended to be stored by the backend
+    application and are not exposed in the public frontend.
+  </p>
+
+  <h2>7. Data retention and deletion</h2>
+  <p>
+    The user controls locally stored JSAA data. Songs, generated content, project records and
+    connected-account information may be removed from the local application by the user.
+  </p>
+  <p>
+    The user may also revoke JSAA's access to a connected social account through the relevant
+    platform's account or authorization settings.
+  </p>
+
+  <h2>8. Children's privacy</h2>
+  <p>JSAA is not designed or intended for use by children.</p>
+
+  <h2>9. Security</h2>
+  <p>
+    JSAA is designed to keep private application data and credentials out of the public website
+    and public source repositories. Sensitive credentials such as API keys, client secrets and
+    access tokens should remain in the local backend environment and must not be published.
+  </p>
+
+  <h2>10. Changes to this policy</h2>
+  <p>
+    This Privacy Policy may be updated as JSAA functionality changes or as new platform
+    integrations are added. The effective date above will be updated when material changes
+    are made.
+  </p>
+
+  <h2>11. Contact</h2>
+  <p>
+    Questions regarding this Privacy Policy can be submitted through the JSAA project owner.
+  </p>
+
+  <footer>
+    Jean Social Artist Autopilot (JSAA)
+  </footer>
+
+</body>
+</html>
